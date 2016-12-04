@@ -3,4 +3,4 @@
 
 -Allows users to save drawings
 
--Interaction between multiple users w/ server & client functionality
+-Interaction between multiple users w/ server & client connectivity
